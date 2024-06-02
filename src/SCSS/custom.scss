@@ -32,6 +32,19 @@ $primary:#712cf9;
             font-size: 2rem;
         }
     }
+
+    .card{
+        overflow-x: hidden;
+        .card-img-top{
+            transition: all 0.3s;
+            &:hover{
+                cursor: pointer;
+                scale:1.1;
+                opacity: 0.75;
+                transition: all 0.3s;
+            }
+        }
+    }
     
 }
 @import '~bootstrap/scss/bootstrap.scss'
