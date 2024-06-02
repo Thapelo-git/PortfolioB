@@ -22,7 +22,8 @@ function Header() {
                 </div>
                 <div className='col-md-6 d-flex 
                  justify-content-center justify-content-md-end'></div>
-                 <img className='img-fluid w-75 rounded-circle shadow my-5'
+                 <img className='img-fluid w-75 rounded-circle 
+                 shadow my-5 mx-5'
                  src={HeaderImg} alt='header img'/>
             </div>
         </div>
