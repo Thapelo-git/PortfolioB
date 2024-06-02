@@ -18,6 +18,9 @@ function About() {
                     <p className='text-start'>
                         jfhuefeyfge fbb dbdb xhduhf
                     </p>
+                    <p className='text-start mb-0'>
+                        jfhuefeyfge fbb dbdb xhduhf
+                    </p>
                     <ViewWorkBtn/>
                 </div>
             </div>
