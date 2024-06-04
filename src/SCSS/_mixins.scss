@@ -4,7 +4,7 @@
     }
 }
 @mixin extraLarge {
-    @media(max-width:$large){
+    @media(max-width:$extraLarge){
         @content;
     }
 }
