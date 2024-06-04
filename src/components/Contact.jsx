@@ -1,4 +1,5 @@
 import React from 'react'
+import Contactform from './Contactform'
 
 function Contact() {
   return (
@@ -53,6 +54,11 @@ function Contact() {
                         </li>
                     </ul>
                 </div>
+                <div className='col-md-6  mt-5 mt-md-0
+                justify-content-center'>
+                <Contactform/>
+                </div>
+               
             </div>
         </div>
     </div>
