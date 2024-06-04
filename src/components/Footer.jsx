@@ -15,7 +15,7 @@ function Footer() {
                    text-decoration-none'>About</a> 
                 </li>
                 <li className='me-0 me-sm-3 mb-2 md-sm-0'>
-                <a href='#projects' className='text-light
+                <a href='#project' className='text-light
                    text-decoration-none'>Projects</a> 
                 </li>
                 <li>

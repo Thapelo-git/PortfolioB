@@ -2,7 +2,7 @@ import React from 'react'
 
 function ViewWorkBtn() {
   return (
-    <a href='#projects'>
+    <a href='#project'>
         <button className='btn btn-primary shadow 
         text-capitalize'>
             View my work

@@ -13,8 +13,8 @@ function NavicationBar() {
     <Navbar expand='lg' className='bg-primary w-100 fixed-top z-1'
     data-bs-theme='dack'>
         <Container>
-            <NavbarBrand href='#' className='fs-4'>TT<span
-            className='text-dark'>S.</span>
+            <NavbarBrand href='#' className='fs-4'>Thapelo<span
+            className='text-dark'>.</span>
 </NavbarBrand>
     <NavbarToggle aria-controls='basic-navbar-nav'/>
     <NavbarCollapse id='basic-navbar-nav'>
