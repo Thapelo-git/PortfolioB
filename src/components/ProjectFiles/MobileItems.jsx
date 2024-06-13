@@ -5,7 +5,7 @@ import prison from '../ProjectFiles/prison.jpg'
 function MobileItems() {
   return (
      <div className='row'>
-    <div className='col-lg-4 col-md-6 '>
+    <div className='col-lg-4 col-md-6  g-5'>
         <div className='portfolio-box shadow'>
         <img src={medico} alt='portfolio' title='medico'/>
         <div className='portfolio-infor'>
@@ -19,7 +19,7 @@ function MobileItems() {
         </div>
         </div>
     </div>
-    <div className='col-lg-4 col-md-6'>
+    <div className='col-lg-4 col-md-6 g-5'>
         <div className='portfolio-box shadow'>
     <img src={hotel} alt='portfolio' title='medico'/>
         <div className='portfolio-infor'>
@@ -32,7 +32,7 @@ function MobileItems() {
         </div>
         </div>
     </div>
-    <div className='col-lg-4 col-md-6'>
+    <div className='col-lg-4 col-md-6 g-5'>
         <div className='portfolio-box shadow'>
     <img src={prison} alt='portfolio' title='medico'/>
         <div className='portfolio-infor'>

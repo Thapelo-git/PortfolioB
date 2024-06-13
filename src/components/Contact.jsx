@@ -14,7 +14,7 @@ function Contact() {
                     <hr className='w-50 mx-auto'/>
                     <ul className='list-unstyled d-flex justify-content-center'>
                         <li className='mx-2'>
-                            <a href='/'>
+                            <a href='https://web.facebook.com/thapelo.chaba.35/'>
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" 
                             class="bi bi-facebook" viewBox="0 0 16 16">
   <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 
@@ -25,7 +25,7 @@ function Contact() {
                             </a>
                         </li>
                         <li className='mx-2'>
-                            <a href='/'>
+                            <a href='https://www.linkedin.com/in/thapelo-chaba-444554224'>
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" 
                             class="bi bi-linkedin" viewBox="0 0 16 16">
   <path d="M0 1.146C0 .513.526 0 1.175 
@@ -41,7 +41,7 @@ function Contact() {
                             </a>
                         </li>
                         <li className='mx-2'>
-                            <a href='/'>
+                            <a href='https://github.com/Thapelo-git'>
                             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" 
                             class="bi bi-github" viewBox="0 0 16 16">
   <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 

@@ -13,7 +13,7 @@ function App() {
     <NavicationBar/>
     <Header/>
     <About/>
-    <Projects/>
+    {/* <Projects/> */}
     <Portfolio/>
     <Contact/>
     <Footer/>

@@ -6,7 +6,7 @@ function Projects() {
     <div className='py-5' id='project'>
         <div className='container'>
             <h2 className='mb-5'>My projects</h2>
-    <div className='row g-4'>
+    <div className='row g-4 '>
       {
         ProjectItems.map((project)=> <ProjectCard key=
         {project.id} projectImage={project.projectImg}
