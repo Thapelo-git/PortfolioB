@@ -4,6 +4,7 @@ import hotel from '../ProjectFiles/hotelimg.jpg'
 import prison from '../ProjectFiles/prison.jpg'
 import bus from '../ProjectFiles/Bus_stop.jpg'
 import findcard from '../ProjectFiles/findcard1.jpg'
+import card from '../ProjectFiles/card.jpg'
 function MobileItems() {
   return (
      <div className='row'>
@@ -62,7 +63,7 @@ function MobileItems() {
     </div>
         <div className='col-lg-4 col-md-6 g-5'>
         <div className='portfolio-box shadow'>
-    <img src={findcard} alt='portfolio' title='findcard'/>
+    <img src={card} alt='portfolio' title='findcard'/>
         <div className='portfolio-infor'>
             <div className='caption'>
                 <h4>Find Card App</h4>

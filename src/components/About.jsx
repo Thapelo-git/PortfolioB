@@ -17,9 +17,13 @@ function About() {
                     <h2 className='mb-5'>About me</h2>
                     <p className='text-start'>
                     Prior experience in web development covers 
-                    React.js, HTML, CSS, Javascript, Bootstrap, Tailwind CSS .
+                    React.js, HTML, CSS, Javascript, Bootstrap, Sass.
                     This technologies enable me to create dynamic and responsive web application
                      that cater to modern user expectations .
+                     <br/>When it comes to databases my experience covers SQL server,Google firebase API 
+                     and MongoDb.
+                     <br/>React Native for both  Android and IOS  I've dabbled in a wide array of programming languages and frameworks
+
                     
                     </p>
                     <p className='text-start mb-5'>
