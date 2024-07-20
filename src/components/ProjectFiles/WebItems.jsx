@@ -27,7 +27,7 @@ function WebItems() {
             <div className='caption'>
                 <h4>Register Administrator</h4>
                 <p>
-                Managing Students Attendence register and ClassRooms 
+                Managing Students Attendance register and ClassRooms 
                 </p>
                 <a href='https://github.com/Thapelo-git/ReportSystem.git'><h4 className='text-white   capitalize'>View Project</h4></a>
             </div>
